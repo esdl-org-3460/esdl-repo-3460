@@ -8,4 +8,5 @@ void main()
       
       cout<<"This is persent program";
 cout<<"welcome";
+cout<<"edited by owner";
 }
