@@ -7,5 +7,5 @@ void main()
       float per=(a/tot)*100;
       
       cout<<"This is persent program";
-
+cout<<"welcome";
 }
